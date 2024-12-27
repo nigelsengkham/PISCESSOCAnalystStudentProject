@@ -10,6 +10,7 @@ As an operational SOC analyst during my cyber defense coursework, I gained hands
 - <b>https://pisces-intl.org/about/pisces</b>
 - <b>https://mantisbt.org/</b>
 - <b>https://www.elastic.co/kibana</b> 
+- <b>https://www.abuseipdb.com/</b> 
 
 
 
@@ -35,19 +36,19 @@ Example Ticket 3: <br/>
 <br />
 <br />
 Collaborating on other students tickets:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/C9rS1fj.png" height="80%" width="80%" alt="Comment on other student ticket"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Abuseipdb check:  <br/>
+<img src="https://imgur.com/KJGDL5o.png" height="80%" width="80%" alt="Abuseipdb check"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Manager/Admin closing and checking tickets i have submitted:  <br/>
+<img src="https://imgur.com/zzyuQZP.png" height="80%" width="80%" alt="Manager/Admin follow up"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Monitored Alerts Personal Notes:  <br/>
+<img src="https://imgur.com/qnTJVyT.png" height="80%" width="80%" alt="Personal Notes"/>
 </p>
 
 <!--
